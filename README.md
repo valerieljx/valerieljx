@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Valerie Lim!
 
-🎓 Y3 Data Science & Analytics @ NUS  
+🎓 Final Year Data Science & Analytics @ NUS  
 📊 Passionate about turning data into decisions  
 🌱 Currently exploring data storytelling & product analytics  
 📌 Interested in machine learning, e-commerce and supply chain
