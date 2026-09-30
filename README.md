@@ -18,6 +18,7 @@
 ---
 
 ### 📂 Featured Projects
+- 💰 **Multi Agent Equity Research** - Analysis of Market
 - 🛍️ **E-Commerce Optimisation** – Pricing, forecasting & supply chain analysis  
 - 🐶 **Cat & Dog Audio Classifier** – CNNs, RNNs & time series audio ML  
 
